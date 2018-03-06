@@ -1,0 +1,12 @@
+[ar:lai]
+[ti:weijun]
+[al:weijun]
+[by:laiweijun]
+[ly:lai]
+[mu:wei]
+[ma:jun]
+[pu:laiweijun]
+[total:225828]
+[offset:0]
+[00:00.117] hi 我是歌词
+[00:01.117] 欢迎聆听美妙的音乐
